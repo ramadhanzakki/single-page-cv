@@ -18,7 +18,7 @@ Screenshot
 
 You can view the challenge requirements here:
 
-https://www.google.com/search?q=https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/single-page-cv
 
 ✨ Features
 
